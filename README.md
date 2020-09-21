@@ -3,7 +3,7 @@
 Step 1: Install git on your computer https://gitforwindows.org \
 Step 2: Go to the start menu and type "git bash", an application should appear I hope \
 Step 3: type "cd desktop" - cd means change directory \
-Step 4: Go back onto github go to Senior Design Team 8/Test. There's is a green code that says "Code" click that button and copy the link \
+Step 4: Go back onto github go to Senior Design Team 8/Test. There's is a green button that says "Code" click that button and copy the link \
 step 5: Go back to git bash and type "git clone" then paste the link. It should like "git copy https://github.com/Senior-Design-Team-8/Test.git" \
 Step 6: On your desktop you should fine the folder called "Test". Type "cd Test", you are now inside the folder \
 Step 7: First type "git status" to ensure you are up to date. Next, type "git pull" this will ensure you are downloading the most current version \
